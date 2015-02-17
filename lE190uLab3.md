@@ -17,7 +17,7 @@ We used the ABBA testing methodology with four rounds for each controller.  User
 
 #### Results and Discussion
 Though the sample size was relatively small, we did receive some mildly interesting results.  After calculating the average values for each statistic, we came up with the following table:
-![alt text](https://github.com/ajinomoto124/E190uLab3/blob/master/Stats.png)
+![alt text](https://github.com/ajinomoto124/E190uLab3/blob/master/stats2.png)
 
 Where numKicks is the number of successful attacks, numAttacks is the number of attacks in general, numReversals is the number of times the player successfully reversed an enemy attack and numReversaled is the number of times the player's attacks were reversed by the enemy.  
 
