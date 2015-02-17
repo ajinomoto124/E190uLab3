@@ -13,8 +13,13 @@ For the sake of simplicity, we decided to run all of our tests using the first c
 
 #### Results and Discussion
 Though the sample size was relatively small, we did recieve some mildly useful results.  After calculating the average values for each statistic, we came up with the following table:
+![alt text](https://github.com/ajinomoto124/E190uLab3/blob/master/Stats.png)
 
+Where numKicks is the number of successful attacks, numAttacks is the number of attacks in general, numReversals is the number of times the player successfully reversed an enemy attack and numReversaled is the number of times the player's attacks were reversed by the enemy.  
+
+Most of the values were fairly similar across the two controller types but the win/loss rate was slightly higher on my controller (20/4 to 15/9) and the average score was also higher (~440 to ~360).  Among the three test users including myself, my controller was noted for being more comfortable to play with but had the downside of the jump button being difficult to reach. 
 
 #### Conclusions
-Time spend on lab: about 6 hours.
-Buttons a switch and two control sticks were attached to a wooden board as a make-shift controller.  Learning how to solder and making mistakes along the way was probably the most time consuming part of this lab.  In the future, it might be better to ensure that everyone in the class can solder properly.
+Time spend on lab: about 11.5 hours.
+Again, with such a small sample size (48 matches total played by 3 players) it is difficult to say how much the difference in data really speaks about the controllers themselves.  There is also some bias introduced since Andy and I had a lot of practice playing with our own controllers when we were testing our code for printing the correct values.
+
