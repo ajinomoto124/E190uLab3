@@ -22,6 +22,6 @@ Most of the values were fairly similar across the two controller types but the w
 #### Conclusions
 Time spend on lab: about 11.5 hours.
 
-Again, with such a small sample size (48 matches total played by 3 players) it is difficult to say how much the difference in data really speaks about the controllers themselves.  There is also some bias introduced since Andy and I had a lot of practice playing with our own controllers when we were testing our code for printing the correct values.
+Despite my controller's unorthodox design, the simplistic controls of Lugaru may have made my controller out to be slightly more convenient when compared to Andy's.  Again, with such a small sample size (48 matches total played by 3 players) it is difficult to say how much the difference in data really speaks about the controllers themselves.  There is also some bias introduced since Andy and I had a lot of practice playing with our own controllers when we were testing our code for printing the correct values.
 
 Andy's lab report can be found at: https://github.com/euclio/video-game-console-design/tree/master/lab3
