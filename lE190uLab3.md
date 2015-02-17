@@ -4,7 +4,7 @@
 Tested controller viability vs another controller in Lugaru
 
 #### Design Methodology:
-After looking through the code for both Lugaru and Cube2 Andy and I felt it would be more interesting and much easier to work with.  We first went through the files and checked for the values we wanted to track. We then used the C++ file io to write those values out in a csv file format every time the player either one or lost a challenge level.
+After looking through the code for both Lugaru and Cube2 Andy and I felt it would be more interesting and much easier to work with.  We first went through the files and checked for the values we wanted to track. We then used the C++ file io to write those values out in a csv file format every time the player either won or lost a challenge level.
 
 
 
