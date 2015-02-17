@@ -21,7 +21,7 @@ Though the sample size was relatively small, we did receive some mildly interest
 
 Where numKicks is the number of successful attacks, numAttacks is the number of attacks in general, numReversals is the number of times the player successfully reversed an enemy attack and numReversaled is the number of times the player's attacks were reversed by the enemy.  
 
-Most of the values were fairly similar across the two controller types but the win/loss rate was slightly higher on my controller (20/4 to 15/9) but the average score was higher on Andy's (~440 to ~360).  Among the three test users including myself, my controller was noted for being more comfortable to play this particular game with but had the downside of the jump button being difficult to reach. 
+Most of the values were fairly similar across the two controller types but the win/loss rate was slightly higher on my controller (20/4 to 15/9) and the average score was higher on Andy's (~440 to ~360).  Among the three test users including myself, my controller was noted for being more comfortable to play this particular game with but had the downside of the jump button being difficult to reach. 
 
 #### Conclusions
 Time spend on lab: about 11.5 hours.
