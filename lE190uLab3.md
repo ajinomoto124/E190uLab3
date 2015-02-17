@@ -9,7 +9,7 @@ After looking through the code for both Lugaru and Cube2 Andy and I felt it woul
 
 
 #### Testing Methodology:
-For the sake of simplicity, we decided to run all of our tests using the first challenge level in Lugaru on the easiest difficulty.  The level is simple.  There are three enemy rabbits and the player must defeat all of them in battle.  
+For the sake of simplicity, we decided to run all of our tests using the first challenge level in Lugaru on the easiest difficulty.  The level is simple.  There are three enemy rabbits and the player must defeat all of them in battle.  The three testers were: myself, Andy and our friend Jonathon.
 
 The statistics we logged were: the level played, the system time that the test was completed, whether the player won or lost,the total time the player survived,the number of attacks, the number of special "rabbit kick" attacks, the number of successful attacks, the number of times the player pulled off a reversal, the number of times the player's attack was reversal'ed by an enemy, the difficulty played on, and the score for that round.  
 
@@ -21,7 +21,7 @@ Though the sample size was relatively small, we did receive some mildly interest
 
 Where numKicks is the number of successful attacks, numAttacks is the number of attacks in general, numReversals is the number of times the player successfully reversed an enemy attack and numReversaled is the number of times the player's attacks were reversed by the enemy.  
 
-Most of the values were fairly similar across the two controller types but the win/loss rate was slightly higher on my controller (20/4 to 15/9) and the average score was higher on Andy's (~440 to ~360).  Among the three test users including myself, my controller was noted for being more comfortable to play this particular game with but had the downside of the jump button being difficult to reach. 
+Most of the values were fairly similar across the two controller types but the win/loss rate was slightly higher on my controller (20/4 to 15/9) and the average score was higher (~440 to ~360).  Among the three test users including myself, my controller was noted for being more comfortable to play this particular game with but had the downside of the jump button being difficult to reach. 
 
 #### Conclusions
 Time spend on lab: about 11.5 hours.
