@@ -4,7 +4,7 @@
 Andy and I tested controller viability against each other in Lugaru
 
 #### Design Methodology:
-After looking through the code for both Lugaru and Cube2 Andy and I felt it would be more interesting and much easier to work with.  We first went through the files and checked for the values we wanted to track. We then used the C++ file io to write those values out in a csv file format every time the player either won or lost a challenge level.
+After looking through the code for both Lugaru and Cube2 Andy and I felt it would be more interesting and much easier to work with.  We first went through the files and checked for the values we wanted to track. We then used the C++ file io to write those values out in a csv file format every time the player either won or lost a challenge level.  The main files that had variables we wanted to track were GameDraw.cpp, GameTick.cpp, and Person.cpp
 
 
 
